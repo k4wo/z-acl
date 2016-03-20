@@ -1,0 +1,28 @@
+{
+  "name": "z-acl",
+  "version": "1.0.0",
+  "description": "Access Control List for Node.js based on Zend Acl.",
+  "main": "acl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "k4wo",
+  "license": "MIT",
+  "dependencies": {
+    "o-to-array": "^1.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k4wo/z-acl.git"
+  },
+  "keywords": [
+    "acl",
+    "zend",
+    "Access Control List"
+  ],
+  "bugs": {
+    "url": "https://github.com/k4wo/z-acl/issues"
+  },
+  "homepage": "https://github.com/k4wo/z-acl#readme"
+}
